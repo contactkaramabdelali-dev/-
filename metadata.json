@@ -1,0 +1,6 @@
+{
+  "name": "كاتب الوارث - Kateb Al Warith",
+  "description": "استوديو ذكي لإدارة وكتابة رواية صوتية مغربية طويلة ومتسلسلة وحفظ ذاكرة الرواية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Tajawal', system-ui, -apple-system, sans-serif;
+  }
+}
+
+.font-manuscript {
+  font-family: 'Amiri', serif;
+}
+
+.font-heading {
+  font-family: 'Alexandria', sans-serif;
+}
+
+/* Custom cinematic dark scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #0b0c10;
+}
+::-webkit-scrollbar-thumb {
+  background: #1f2833;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #45a29e;
+}
+
